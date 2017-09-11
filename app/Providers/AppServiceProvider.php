@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace hello_laravel_heroku\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

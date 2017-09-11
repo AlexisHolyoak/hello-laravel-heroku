@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Middleware;
+namespace hello_laravel_heroku\Http\Middleware;
 
 use Illuminate\Http\Request;
 use Fideloper\Proxy\TrustProxies as Middleware;

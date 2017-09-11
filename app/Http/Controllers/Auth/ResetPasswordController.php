@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Http\Controllers\Auth;
+namespace hello_laravel_heroku\Http\Controllers\Auth;
 
-use App\Http\Controllers\Controller;
+use hello_laravel_heroku\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\ResetsPasswords;
 
 class ResetPasswordController extends Controller

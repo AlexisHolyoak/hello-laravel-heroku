@@ -67,7 +67,7 @@ return [
     'providers' => [
         'users' => [
             'driver' => 'eloquent',
-            'model' => App\User::class,
+            'model' => hello_laravel_heroku\User::class,
         ],
 
         // 'users' => [
