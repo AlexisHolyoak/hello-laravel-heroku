@@ -194,9 +194,7 @@
         </div>
         <strong>Copyright &copy; 2015-2020 <a href="https://github.com/AlexisHolyoak/hello_laravel_heroku">AlexisHolyoak</a>.</strong> All rights reserved.
       </footer>
-
-      
-    <!-- jQuery 2.1.4 -->
+          <!-- jQuery 2.1.4 -->
     <script src="{{asset('js/jQuery-2.1.4.min.js')}}"></script>
     <!-- Bootstrap 3.3.5 -->
     <script src="{{asset('js/bootstrap.min.js')}}"></script>
