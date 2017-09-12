@@ -1,5 +1,5 @@
-@extends('layouts.master')
-@section('contenido')
+@extends('views.layouts.master')
+@section('content')
 	<h3>Index</h3>
 
 @endsection
